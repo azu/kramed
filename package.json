@@ -31,11 +31,7 @@
   ],
   "devDependencies": {
     "browserify": "^13.0.0",
-    "uglifyjs": "^2.4.10",
-
-    "markdown": "*",
-    "showdown": "*",
-    "robotskirt": "*"
+    "uglifyjs": "^2.4.10"
   },
   "scripts": {
     "test": "node test",
